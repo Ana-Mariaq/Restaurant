@@ -1,3 +1,5 @@
+**Pizzerie**
+
 **Descriere:**
 
 Acest proiect reprezintă o aplicație pentru o pizzerie, care gestionează meniul, preparatele, ingredientele și comenzile. Este destinată să ofere o soluție eficientă pentru administrarea activităților dintr-o pizzerie, inclusiv adăugarea și gestionarea preparatelor, ingredientelor, meniului și a comenzilor plasate de clienți.
