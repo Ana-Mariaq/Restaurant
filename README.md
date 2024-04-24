@@ -23,6 +23,10 @@ Acest proiect reprezintă o aplicație pentru o pizzerie, care gestionează meni
 - C++
 - C++ Standard Library
 
+**Mediu de dezvoltare:**
+
+- Visual Studio 2022
+
 **Autor:**
 
 @Ana-Mariaq
